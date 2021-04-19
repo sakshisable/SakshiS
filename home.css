@@ -21,6 +21,8 @@ body {
 }
 .activity {
 	padding:60px;
+	align-items:end;
+
 }
 #contact {
 	margin: 0px;
